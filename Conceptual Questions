@@ -1,0 +1,5 @@
+#1 What is metastability and why can't you fully eliminate it?
+#2 Walk me through how an async FIFO works.
+#3 What's the difference between setup and hold time violations, and which is worse?
+#4 What is clock domain crossing and how do you handle a multi-bit signal crossing domains?
+#5 You're told your design fails timing by 200ps on a critical path. What do you do?
