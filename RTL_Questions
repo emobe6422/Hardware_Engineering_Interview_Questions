@@ -24,7 +24,7 @@ Design a clock divider (divide by N)
 
 Basic combinational blocks
 
-Write an N-bit adder / carry lookahead adder XXX
+(FINISHED) - Write an N-bit adder / carry lookahead adder
 Design a parameterized mux tree
 Build an XOR gate using only NAND gates (gate-level structural RTL) Thedatabus
 
