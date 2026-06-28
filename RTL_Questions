@@ -9,6 +9,7 @@ FIFOs (asked almost everywhere)
 Write a synchronous FIFO with full/empty flags
 Write an asynchronous FIFO with Gray-coded pointers — this is one of the most broadly tested structures and forms the basis for several types of problems Thedatabus
 Calculate minimum FIFO depth given producer/consumer rates
+Write a UART Controller
 
 Arbiters and flow control
 
